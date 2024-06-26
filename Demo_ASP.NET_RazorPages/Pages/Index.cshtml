@@ -1,0 +1,14 @@
+﻿@page
+@model Demo_ASP.NET_RazorPages.Pages.IndexModel
+@{
+    ViewData["Title"] = "Hello";
+}
+
+<h2>@ViewData["Title"]</h2>
+<p>HELLO, @Model.Name!</p>
+    <form method="post">
+        <label for="name">Enter your name:</label>
+        <input type="text" id="name" name="name" />
+        <button type="submit">Submit</button>
+    </form>
+

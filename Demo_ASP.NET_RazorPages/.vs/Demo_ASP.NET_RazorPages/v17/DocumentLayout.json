@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|d:\\asp.net core\\demo_asp.net_razorpages\\demo_asp.net_razorpages\\demo_asp.net_razorpages.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{920DB9E1-12E0-43C3-8CA0-FD1257CBD586}|Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj|solutionrelative:demo_asp.net_razorpages\\demo_asp.net_razorpages.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:29:53.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:26:40.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T08:56:01.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:10:34.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:26:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:26:37.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:29:01.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Program.cs",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:25:10.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:45:35.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:26:53.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Demo_ASP.NET_RazorPages",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj",
+              "RelativeDocumentMoniker": "Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj",
+              "ToolTip": "D:\\ASP.NET CORE\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj",
+              "RelativeToolTip": "Demo_ASP.NET_RazorPages\\Demo_ASP.NET_RazorPages.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T08:58:51.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
